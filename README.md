@@ -43,7 +43,7 @@ Updated world state  →  loop again
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/llm-agent-world.git
+git clone https://github.com/RishabUK/llm-agent-world.git
 cd llm-agent-world
 ```
 
